@@ -12,7 +12,7 @@ A simple JS image compression tool
 ## Usage
 
 ```
- import ImgCompress from 'img-compress'
+ import ImgCompress from 'img-compress-tool'
  
  const img = new ImgCompress(file, quality, size, width).initCompress(callbackHandle)
  
